@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ANALISISDIMENSIONAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ANALISISDIMENSIONALII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ANALISISVECTORIAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ANALISISVECTORIALII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DINAMICALINEAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENERGIAMECANICA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ESTATICA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ESTATICAII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ESTATICAIII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FUERZA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MPCL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MPCLII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVCL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRUII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRUVII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVCLII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ROZAMIENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TRABAJOMECANICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
